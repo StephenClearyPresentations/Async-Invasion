@@ -1,5 +1,7 @@
 ﻿using System;
 
+// Not a common pattern on .NET, though it was used by RestSharp.
+
 namespace SampleCode._3_Callbacks
 {
     public interface IUseDownloadAndSave

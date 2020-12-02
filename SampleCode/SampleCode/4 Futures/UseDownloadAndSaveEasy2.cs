@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
 
+// Old-school (.NET 4.0-era) asynchronous pattern using chained tasks with Task.Then helpers from Stephen Toub.
+
 namespace SampleCode._4_Futures
 {
     public static class TaskThen

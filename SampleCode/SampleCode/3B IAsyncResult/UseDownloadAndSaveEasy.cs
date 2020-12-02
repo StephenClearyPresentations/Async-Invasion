@@ -2,6 +2,8 @@
 using System.Runtime.ExceptionServices;
 using System.Threading.Tasks;
 
+// https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/asynchronous-programming-model-apm
+
 namespace SampleCode._3B_IAsyncResult
 {
     public interface IUseDownloadAndSave

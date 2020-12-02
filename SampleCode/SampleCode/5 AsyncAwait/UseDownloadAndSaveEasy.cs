@@ -1,5 +1,8 @@
 ﻿using System.Threading.Tasks;
 
+// Modern async code.
+// https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap
+
 namespace SampleCode._5_AsyncAwait
 {
     public interface IUseDownloadAndSave

@@ -1,5 +1,6 @@
 ﻿using System.Threading.Tasks;
 
+// Old-school (.NET 4.0-era) asynchronous pattern using chained tasks.
 // https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming
 
 namespace SampleCode._4_Futures

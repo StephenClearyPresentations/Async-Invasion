@@ -1,5 +1,7 @@
 ﻿using System.ComponentModel;
 
+// https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/event-based-asynchronous-pattern-eap
+
 namespace SampleCode._2_Events
 {
     public interface IUseDownloadAndSave
